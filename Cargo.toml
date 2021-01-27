@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 image = "0.23.12"
+ordered-float = "2.0"
 
 [profile.release]
 lto = false
